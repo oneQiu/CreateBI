@@ -31,3 +31,6 @@ pnpm-debug.log*
 # config
 .idea
 .vscode
+
+pnpm-lock.yaml
+yarn.lock
