@@ -1,0 +1,9 @@
+.block-editor {
+  .focused {
+    &.is-empty:before {
+      content: attr(data-placeholder);
+      position: absolute;
+      color: #bbbfc4;
+    }
+  }
+}
